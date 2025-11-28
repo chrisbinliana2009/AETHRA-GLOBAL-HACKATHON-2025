@@ -132,3 +132,18 @@ Using a combination of optical, mechanical, and electronic elements, we built a 
 Prototype Live Demo https://youtu.be/QiY_yskjGkQ
 Prototype Video https://youtu.be/HRheGXdG6uM
 
+---
+
+
+## 📝 License
+This project is open-source for educational and research use.
+
+---
+
+## 💬 Contact
+For feedback or collaboration:  
+**Email:** chrisbinjaedon2012@gmail.com  
+**GitHub:** https://github.com/CHRISBINJAEDON  
+
+
+
